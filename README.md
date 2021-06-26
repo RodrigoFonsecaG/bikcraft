@@ -16,7 +16,7 @@ O projeto é ministrado pelo André Rafael, web designer e fundador da Origamid.
 
 
 ## 🖥️ Demonstração
-[![Bikcraft](https://imgur.com/pKFBoY1.png "Clique para acessar o projeto")](https://vagalumes.vercel.app/ "Clique para acessar o projeto")   
+[![Bikcraft](https://imgur.com/DNL7QW2 "Clique para acessar o projeto")](https://vagalumes.vercel.app/ "Clique para acessar o projeto")   
 
 ## >>**[Clique aqui para acessar a demonstração do website](https://rodrigofonsecag.github.io/bikcraft/web/index.html)**<<
 
